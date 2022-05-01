@@ -6,4 +6,5 @@
 
 ### License
 
-* [Creative Commons Attribution-NonCommercial 4.0 CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+* [Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+
